@@ -1,0 +1,46 @@
+
+.conteiner {
+    max-width: 1000px;
+    margin: auto;
+    border: 5px black solid;
+    padding: 20px 30px 200px 30px;
+    text-align: center;
+
+}
+
+.block1 {
+    background-color: red;
+    border: 2px solid black;
+    max-width: 1000px;
+    height: 100px;
+    
+    text-align: center;
+        }
+
+
+.bl0ck23 div:nth-child(1) {   
+    background-color:green ;
+    border: solid black 2px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin-top: 10px;
+    float:left;
+
+}
+.bl0ck23 div:nth-child(2) {   
+    background-color:yellow ;
+    border: solid black 2px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin-top: 20px;
+    float:right;
+}
+
+.frame {
+    
+    border: 5px yellow solid;
+    padding: 10px 5px 200px 5px;
+   
+}
